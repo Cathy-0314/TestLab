@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, ICS2026\n");
+    printf("Hello, from feature\n");
     printf("Hello, world!\n");
 }
