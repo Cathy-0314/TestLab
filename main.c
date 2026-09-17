@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, from feature\n");
+    printf("Hello, feature\n");
     printf("Hello, world!\n");
 }
