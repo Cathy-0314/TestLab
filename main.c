@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello, feature\n");
+    printf("Hello, from main branch\n");
     printf("Hello, world!\n");
 }
